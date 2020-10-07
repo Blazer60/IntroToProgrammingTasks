@@ -2,6 +2,6 @@
 #include "TaskManager.h"
 
 int main() {
-    Task5();
+    Task7();
     return 0;
 }
