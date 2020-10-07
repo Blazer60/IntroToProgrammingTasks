@@ -1,6 +1,7 @@
 #include <iostream>
+#include "TaskManager.h"
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    Task5();
     return 0;
 }
